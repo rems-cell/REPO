@@ -1,0 +1,21 @@
+
+{
+    "name": "Mechanicus",
+    "description": "ADEPTUS MECHANICUS",
+    "symbol": "MCN",
+    "image": "https://imgur.com/a/2mUG70s",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Gun"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Confused"
+        }
+    ]
+}   
